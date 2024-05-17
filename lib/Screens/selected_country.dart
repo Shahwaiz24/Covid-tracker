@@ -8,7 +8,7 @@ import 'package:flutter/material.dart';
 int myindex = 1;
 
 class CountryDetail extends StatefulWidget {
-  CountryDetail({super.key});
+  CountryDetail({super.key});   
 
   @override
   State<CountryDetail> createState() => _CountryDetailState();
