@@ -9,7 +9,7 @@ class InfoScreen extends StatefulWidget {
 }
 
 class _InfoScreenState extends State<InfoScreen> {
-  @override
+  @override    
   Widget build(BuildContext context) {
     // Dimensions //
     final Size screenSize = MediaQuery.of(context).size;
